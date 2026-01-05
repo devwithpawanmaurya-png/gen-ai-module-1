@@ -59,7 +59,7 @@ GenAI/
 ### Step 1: Clone the repository
 
 ```bash
-git@github.com:persevere08/gen-ai-module1.git
+https://github.com/devwithpawanmaurya-png/gen-ai-module-1.git
 cd genai
 ```
 
